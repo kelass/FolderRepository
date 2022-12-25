@@ -3,12 +3,14 @@
 <h5>Рисунок 1 - Создание папки "Resources" в папке "Creating Digital Images"
 
 ![image](https://user-images.githubusercontent.com/69418373/209464824-6498932a-b41d-4a6e-9edb-394f65530369.png)
-<h5>Рисунок 1 - Создание папки "Primary Sources" в папке "Resources"
+  <h5>Рисунок 1 - Создание папки "Primary Sources" в папке "Resources"</h5>
 
 <h4> Дальше Вы можете увидеть демонстрацию создания у Вас на ОС этих папок, которые Вы указали в поле input на странице Home/Privacy</h4>
 
 ![image](https://user-images.githubusercontent.com/69418373/209464862-5b321314-f7a0-4144-b80f-1d34b1019cbb.png)
+  
 ![image](https://user-images.githubusercontent.com/69418373/209464864-adf5c060-ade2-4b0a-baf4-319b0dc05587.png)
+  
 ![image](https://user-images.githubusercontent.com/69418373/209464866-c70ed28f-1542-493e-9a2b-7c331a8cf468.png)
 
 <h5 align:center>БД</h5>
