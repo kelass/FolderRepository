@@ -1,0 +1,14 @@
+﻿@model IEnumerable<TZTest.Models.FolderClass>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @foreach(var item in Model)
+        {
+            <p>"Folder" - @item.Name</p>
+
+            <a href="@item.Path">@ViewBag.Catalogs</a>
+        }
+</div>
+

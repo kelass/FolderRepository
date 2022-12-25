@@ -1,0 +1,14 @@
+﻿@model IEnumerable<FolderClass>
+@{
+    ViewData["Title"] = ViewBag.FolderName;
+}
+<h1>@ViewBag.FolderName</h1>
+
+
+<div class="container">
+@foreach(var item in Model)
+{
+    <a href="@item.Id">@item.Name</a><br />
+
+}
+</div>

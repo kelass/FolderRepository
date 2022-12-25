@@ -1,0 +1,22 @@
+﻿@model TZTest.Models.Dto.CreateFolderDto;
+
+@{
+    ViewData["Title"] = "Create Folder";
+}
+<h1>@ViewData["Create Folder"]</h1>
+
+
+
+
+
+
+<form method="post" asp-controller="Home" asp-action="Privacy">
+<select asp-for="ParentFolderId" asp-items="@ViewBag.Folders"></select>
+<input type="text" asp-for="Name" />
+<input hidden asp-for="Id" value="@Guid.NewGuid()"/>
+<input type="text" hidden asp-for="Path"/>
+
+    <button type="submit">Add new folder</button>
+</form>
+
+    

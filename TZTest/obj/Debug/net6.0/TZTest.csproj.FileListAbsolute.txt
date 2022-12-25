@@ -1,0 +1,153 @@
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/appsettings.Development.json
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/appsettings.json
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/TZTest.staticwebassets.runtime.json
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/TZTest
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/TZTest.deps.json
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/TZTest.runtimeconfig.json
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/TZTest.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/TZTest.pdb
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.AssemblyInfo.cs
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.RazorAssemblyInfo.cache
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.RazorAssemblyInfo.cs
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/staticwebassets.build.json
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/staticwebassets.development.json
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/scopedcss/bundle/TZTest.styles.css
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/scopedcss/projectbundle/TZTest.bundle.scp.css
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.dll
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/refint/TZTest.dll
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.pdb
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.genruntimeconfig.cache
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/ref/TZTest.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Azure.Core.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Azure.Identity.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macbookpro/Projects/TZTest/TZTest/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/macbookpro/Projects/TZTest/TZTest/obj/Debug/net6.0/TZTest.csproj.CopyComplete
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\appsettings.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\TZTest.staticwebassets.runtime.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\TZTest.exe
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\TZTest.deps.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\TZTest.runtimeconfig.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\TZTest.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\TZTest.pdb
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.csproj.AssemblyReference.cache
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.AssemblyInfoInputs.cache
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.AssemblyInfo.cs
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.csproj.CoreCompileInputs.cache
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.RazorAssemblyInfo.cache
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.RazorAssemblyInfo.cs
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\staticwebassets\msbuild.TZTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\staticwebassets\msbuild.build.TZTest.props
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TZTest.props
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TZTest.props
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\scopedcss\bundle\TZTest.styles.css
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\scopedcss\projectbundle\TZTest.bundle.scp.css
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.csproj.CopyComplete
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\refint\TZTest.dll
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.pdb
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\TZTest.genruntimeconfig.cache
+C:\Users\kelas\OneDrive\Рабочий стол\Study\TZTest\TZTest\obj\Debug\net6.0\ref\TZTest.dll
