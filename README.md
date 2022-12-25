@@ -19,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/69418373/209464959-40fcdd48-53be-40e8-aedc-d0ac4b719c30.png)
 
 <h5>Отображение результата работы в браузере</h5>
+
 ![image](https://user-images.githubusercontent.com/69418373/209464919-d3efeb0d-00b0-4a47-9cde-fb5384b2bade.png)
 
 ![image](https://user-images.githubusercontent.com/69418373/209464922-aff84933-5bfc-4b62-9d61-daf7e0f42219.png)
