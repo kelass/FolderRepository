@@ -2,10 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/69418373/209464796-ad54053f-d6d3-403e-a3ab-41eac3803558.png)
 
-<h5>Рисунок 1 - Создание папки "Resources" в папке "Creating Digital Images"</h5>
+<h5>Создание папки "Resources" в папке "Creating Digital Images"</h5>
 
 ![image](https://user-images.githubusercontent.com/69418373/209464824-6498932a-b41d-4a6e-9edb-394f65530369.png)
-  <h5>Рисунок 1 - Создание папки "Primary Sources" в папке "Resources"</h5>
+  <h5>Создание папки "Primary Sources" в папке "Resources"</h5>
 
 <h4> Дальше Вы можете увидеть демонстрацию создания у Вас на ОС этих папок, которые Вы указали в поле input на странице Home/Privacy</h4>
 
